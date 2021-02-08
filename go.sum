@@ -60,6 +60,8 @@ github.com/techxmind/config v0.0.0-20210108064531-f6e391e81db9 h1:Fk0dBFjRqKOUNm
 github.com/techxmind/config v0.0.0-20210108064531-f6e391e81db9/go.mod h1:msF7SqLNMK0cqeQ0OoMpTgHPQ49ogsFtupPtJmatnuU=
 github.com/techxmind/filter v0.0.0-20201204063700-d06ee97680dd h1:cJl2H2tR+4AXbFybpzEwB5LtkxXM3PEa/p6FwHytRWs=
 github.com/techxmind/filter v0.0.0-20201204063700-d06ee97680dd/go.mod h1:mtyPAGgGcMwtPgVpSkjoqtZBPhzJvfGPu4bCq+gcvj0=
+github.com/techxmind/filter v0.1.0 h1:MtUViGHUjUANfo86GlfkxY2sd79mXsnHrpKmsZTXYWo=
+github.com/techxmind/filter v0.1.0/go.mod h1:mtyPAGgGcMwtPgVpSkjoqtZBPhzJvfGPu4bCq+gcvj0=
 github.com/techxmind/go-utils v0.0.0-20201127043211-03b94e0bd51e h1:1mDmWymk9uDjI5ofH2J9stlZoNUYWWWFDqcV2ksMxRk=
 github.com/techxmind/go-utils v0.0.0-20201127043211-03b94e0bd51e/go.mod h1:F8DtfFXxjw9sDArW6D/kbA83e0tjkCayyOSRCPEX+YQ=
 github.com/techxmind/ip2location v0.0.0-20201016120605-9ca74285b024 h1:kj2r55FtGEUQ4ixRefHAwf2aNm7+9gSFk/4zRMeVyEo=
